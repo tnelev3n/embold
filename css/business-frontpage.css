@@ -1,0 +1,11 @@
+    body {
+    font-family: 'Oswald', sans-serif !important;
+    /* background-color: #000!important; */
+    }
+    h1{font-family: 'Ultra', serif !important;}
+    .blog-post-title{display:none;}
+    .custom_nav, .navbar,.navbar-expand-lg, .navbar-dark, .bg-dark, .fixed-top{
+/*        background: rgba(0, 0, 0, 0.9)!important;*/
+ 
+    }
+ 	.custom_nav2{padding:20px 20px 20px 20px}
